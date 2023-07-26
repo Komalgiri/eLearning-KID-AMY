@@ -1,4 +1,5 @@
 # eLearning-KID-AMY
+<img align="right" alt="Coding" width="170" src="https://cdn2.vectorstock.com/i/1000x1000/92/61/e-learning-icon-design-vector-7969261.jpg">
 
 ## Introduction
 
